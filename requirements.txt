@@ -1,3 +1,4 @@
+duckdb==1.5.6
 ipykernel==7.4.0
 kaggle==2.2.4
 pandas==3.0.6
