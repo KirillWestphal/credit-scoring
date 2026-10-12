@@ -1,0 +1,4 @@
+ipykernel==7.4.0
+kaggle==2.2.4
+pandas==3.0.6
+pyarrow==26.0.0

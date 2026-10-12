@@ -1,0 +1,36 @@
+# --- Python environment ---
+.venv/
+__pycache__/
+*.py[cod]
+
+# --- Data (never committed) ---
+data/
+
+# --- Experiment tracking ---
+mlruns/
+mlartifacts/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Secrets and credentials ---
+kaggle.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*token*
+*secret*
+credentials*
+
+# --- Tool caches ---
+.ruff_cache/
+.pytest_cache/
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+
+# --- Personal notes ---
+plan.pdf
